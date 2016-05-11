@@ -54,7 +54,7 @@ var_3=10
 }
 
 
-function_1
+punction_1
 
 
 echo
