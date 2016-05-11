@@ -54,7 +54,7 @@ var_3=10
 }
 
 
-fun_1
+function_1
 
 
 echo
