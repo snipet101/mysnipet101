@@ -37,3 +37,30 @@ echo $local_var2		## Check Here
 echo
 
 echo $var_1			## Check Here
+
+
+echo $var_3	# check here
+
+
+fun_1()
+
+{
+	
+
+var_3=10
+
+	local var_4=20
+
+}
+
+
+fun_1
+
+
+echo
+
+echo $var_3		# check here
+
+echo
+
+echo $var_4		# check here
