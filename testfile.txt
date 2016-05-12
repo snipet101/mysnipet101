@@ -1,4 +1,5 @@
 Line 1 from master 09:59
+===========================
 
 Line 2 from branch aaa 10:01
 
